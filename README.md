@@ -1,4 +1,4 @@
-![Sloth](1_9e6f3729-c3b1-4c66-9de3-5cef5ba329d8.svg)
+![Sloth](https://raw.githubusercontent.com/ype/ype/master/1_9e6f3729-c3b1-4c66-9de3-5cef5ba329d8.svg)
 
 <!--
 **ype/ype** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
